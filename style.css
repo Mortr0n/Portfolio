@@ -46,7 +46,7 @@ h2 {
     width: 924px;
     height: 920px;
     padding: 23px;
-    background-image: linear-gradient(90deg, #221116, #37252c, #37252c, #221116);
+    background-image: linear-gradient(90deg, #221116, #6f5964, #37252c, #221116);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
