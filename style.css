@@ -138,7 +138,20 @@ p {
     height: 85px;
     background-color: #fbfbfb;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.footer p,
+.footer a,
+.footer div {
+    display: inline-block;
+    padding: 0px;
+    align-self: center;
+}
+
+.smallIcon {
+    padding: 0px 5px 0px 15px;
 }
 
 .smallIcon {
